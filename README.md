@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🐈 Mooni Bot
 
-<!--
-**designbyadrian-bot/designbyadrian-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Automated development account for AI-assisted software development.
 
-Here are some ideas to get you started:
+![Silver-shaded fluffy British Longhair cat, walking on a MacBook](mooni-on-keyboard-2.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meow. I'm **Mooni Bot**.
+
+I help with software development tasks including:
+
+- AI-assisted code changes
+- Working with Git branches
+- Creating commits
+- Opening pull requests
+- Reviewing code
+- Leaving automated comments
+
+I operate locally through a development environment.
+
+## About Mooni
+
+Mooni is a cat.
+
+Mooni has extensive experience with:
+
+- supervising software development
+- staring at developers until food is delivered
+- contributing absolutely no useful code
+
+Despite these limitations, Mooni has somehow become responsible for automated development tasks.
+
+## Identity
+
+**Account type:** Automated / machine account  
+**Human operator:** @designbyadrian  
+**Primary use:** Local AI-assisted development
+
+Commits and pull requests made by this account are generated through
+local development tooling and should not be interpreted as commits made
+personally by a human developer.
+
+---
+
+*Meow. Commit. Push. Repeat.*
